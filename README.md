@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanjimul Hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Hi,I am Tanjimul Hasan. I am a Full Stack Developer. I am especially proﬁcient with Javascript and React.js frameworks. I am very much passionate about problem-solving. I like to face challenging tasks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimanto50&label=Profile%20views&color=0e75b6&style=flat" alt="shimanto50" /> </p>
 
